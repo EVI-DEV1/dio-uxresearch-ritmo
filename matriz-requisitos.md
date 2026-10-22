@@ -8,7 +8,7 @@
 | Personas | Dois perfis analíticos provisórios com fonte e lacuna | Não são personas validadas por entrevistas |
 | Jornada | Reconstrução de cinco fases com evidências | Analítica; não observada em uma pessoa |
 | Insights e oportunidades | Prioridades fundamentadas e avaliação futura | Hipóteses; efeitos não demonstrados |
-| Repositório e entrega | Pacote final preparado | Publicação e envio ainda não confirmados |
+| Repositório e entrega | Repositório público https://github.com/EVI-DEV1/dio-uxresearch-ritmo | Publicação confirmada; envio à DIO pendente |
 
 O usuário solicitou pesquisa na internet por não dispor de entrevistados. Essa decisão orientou a adaptação; não constitui aprovação da DIO para substituir entrevistas. Uma eventual confirmação de recebimento pela plataforma deve ser registrada separadamente da avaliação de adequação metodológica.
 

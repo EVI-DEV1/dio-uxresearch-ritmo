@@ -1,5 +1,7 @@
 # Ritmo — UX Research documental
 
+[Repositório público](https://github.com/EVI-DEV1/dio-uxresearch-ritmo), publicado em 22/10/2026. Envio e aceitação da adaptação pela DIO ainda não confirmados.
+
 Estudo exploratório sobre organização dos estudos e continuidade de sessões, elaborado como adaptação documental do desafio de UX Research da DIO.
 
 **Método executado:** análise de seis documentos públicos, com dez registros de evidência, quatro grupos de afinidade, dois perfis provisórios e uma jornada analítica. **Não houve entrevistas nem testes com participantes.** Os seis documentos não equivalem a seis usuários.
